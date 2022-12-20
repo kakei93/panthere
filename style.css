@@ -438,6 +438,8 @@ nav .caret {
 .mg-md {
     margin-top: 10px;
     margin-bottom: 20px;
+    font-weight: bold;
+    color: #000000 !important;
 }
 
 .mg-lg {
@@ -728,6 +730,8 @@ h1 {
 
 h4 {
     color: #333333!important;
+    font-size: 22px;
+    font-weight: bold !important;
 }
 
 .icons {
@@ -763,6 +767,7 @@ h4 {
 .bold-link {
     font-weight: 900;
     text-decoration: underline!important;
+    color: #000000 !important;
 }
 
 .bgc-white {
@@ -780,10 +785,13 @@ h4 {
 .tc-white {
     color: #FFFFFF!important;
 }
+.tc-black {
+    color: #000000 !important;
+}
 
 .btn-atomic-tangerine {
     background: #F3976C;
-    color: #FFFFFF!important;
+    color: #000000!important;
 }
 
 .btn-atomic-tangerine:hover {
@@ -792,7 +800,7 @@ h4 {
 }
 
 .ltc-white {
-    color: #FFFFFF!important;
+    color: #FFFFFF;
 }
 
 .ltc-white:hover {
