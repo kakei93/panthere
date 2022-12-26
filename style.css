@@ -835,9 +835,9 @@ h4 {
 .bg-presentation {
     background-image: url("img/image-de-presentation.jpeg");
 }
-.text {
+/* .text {
     font-size: 24px;
-}
+} */
 .citation {
     font-size: 18px;
 }
